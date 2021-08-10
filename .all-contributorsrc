@@ -50,12 +50,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/80135238?v=4",
       "profile": "https://codepen.io/Super45coder59",
       "contributions": [
-        "ideas"
+        "ideas",
+        "code",
+        "doc"
       ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "contributers",
+  "projectName": "Contributors",
   "projectOwner": "Educational-Websites",
   "repoType": "github",
   "repoHost": "https://github.com",
