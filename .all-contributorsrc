@@ -64,7 +64,9 @@
         "code",
         "doc",
         "ideas",
-        "design"
+        "design",
+        "test",
+        "tutorial"
       ]
     }
   ],
