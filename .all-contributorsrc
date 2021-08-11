@@ -41,7 +41,9 @@
         "bug",
         "code",
         "translation",
-        "doc"
+        "doc",
+        "video",
+        "design"
       ]
     },
     {
