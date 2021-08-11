@@ -15,12 +15,14 @@
         "code",
         "translation",
         "doc",
-        "ideas"
+        "ideas",
+        "video",
+        "design"
       ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "contributers",
+  "projectName": "Contributors",
   "projectOwner": "Educational-Websites",
   "repoType": "github",
   "repoHost": "https://github.com",
