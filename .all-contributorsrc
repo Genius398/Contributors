@@ -70,7 +70,9 @@
         "test",
         "tutorial",
         "bug",
-        "translation"
+        "translation",
+        "maintenance",
+        "video"
       ]
     }
   ],
