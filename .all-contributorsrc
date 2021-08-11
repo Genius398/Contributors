@@ -15,7 +15,12 @@
         "code",
         "translation",
         "doc",
-        "ideas"
+        "ideas",
+        "maintenance",
+        "test",
+        "tutorial",
+        "design",
+        "video"
       ]
     },
     {
