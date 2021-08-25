@@ -20,7 +20,10 @@
         "test",
         "tutorial",
         "design",
-        "video"
+        "video",
+        "example",
+        "review",
+        "security"
       ]
     },
     {
@@ -75,7 +78,10 @@
         "bug",
         "translation",
         "maintenance",
-        "video"
+        "video",
+        "example",
+        "review",
+        "security"
       ]
     },
     {
