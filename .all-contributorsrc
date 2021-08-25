@@ -72,7 +72,10 @@
         "bug",
         "translation",
         "maintenance",
-        "video"
+        "video",
+        "example",
+        "review",
+        "security"
       ]
     },
     {
