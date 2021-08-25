@@ -97,6 +97,17 @@
         "maintenance",
         "video"
       ]
+    },
+    {
+      "login": "Educational-Websites",
+      "name": "Educational Websites",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88575782?v=4",
+      "profile": "https://github.com/Educational-Websites",
+      "contributions": [
+        "example",
+        "review",
+        "security"
+      ]
     }
   ],
   "contributorsPerLine": 7,
