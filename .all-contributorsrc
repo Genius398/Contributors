@@ -20,7 +20,10 @@
         "test",
         "tutorial",
         "design",
-        "video"
+        "video",
+        "example",
+        "review",
+        "security"
       ]
     },
     {
