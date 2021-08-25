@@ -57,7 +57,10 @@
         "design",
         "maintenance",
         "test",
-        "tutorial"
+        "tutorial",
+        "example",
+        "review",
+        "security"
       ]
     },
     {
