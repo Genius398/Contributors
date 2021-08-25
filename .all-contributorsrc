@@ -40,7 +40,9 @@
         "design",
         "test",
         "tutorial",
-        "example"
+        "example",
+        "security",
+        "review"
       ]
     },
     {
