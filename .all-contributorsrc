@@ -89,7 +89,10 @@
         "test",
         "tutorial",
         "maintenance",
-        "video"
+        "video",
+        "example",
+        "review",
+        "security"
       ]
     }
   ],
