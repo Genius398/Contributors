@@ -39,7 +39,10 @@
         "translation",
         "design",
         "test",
-        "tutorial"
+        "tutorial",
+        "example",
+        "review",
+        "security"
       ]
     },
     {
